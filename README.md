@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me e-mail mwadayz@yandex.com
+- 📫 Reach me via e-mail mwadayz@yandex.com
 - Telegram https://t.me/fritzmwadayz
 
 <!---
