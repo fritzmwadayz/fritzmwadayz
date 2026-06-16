@@ -4,7 +4,7 @@
 About Me
 
 
-- I mostly code backends mainly in Python
+- I code backends mainly in Python
 - Currently learning C and Assembly
 - Interested in a lot, still figuring out exactly where
 - Open to collaborating — nothing specific lined up yet, but always up for interesting projects
