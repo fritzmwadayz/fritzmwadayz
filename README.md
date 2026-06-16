@@ -1,25 +1,29 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+%40fritzmwadayz;Backend+Developer;Python+%7C+Learning+C+%26+Assembly" alt="Typing SVG" />
 </h1>
-👋 About Me
+About Me
 
 
-🔭 I mostly code backends — Python is my main language
-🌱 Currently learning C and Assembly
-👀 Interested in a lot, still figuring out exactly where
-💞️ Open to collaborating — nothing specific lined up yet, but always up for interesting projects
-📫 Reach me at mwadayz@yandex.com
+- I mostly code backends mainly in Python
+- Currently learning C and Assembly
+- Interested in a lot, still figuring out exactly where
+- Open to collaborating — nothing specific lined up yet, but always up for interesting projects
+📫 Reach me via email at mwadayz@yandex.com
 💬 Telegram: @fritzmwadayz
 
 
 <br>
-🛠️ Tech Stack
 
-Show Image
-Show Image
-Show Image
+Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly" />
+</p>
 
 <br>
+
 📊 GitHub Stats
 
 <p align="center">
