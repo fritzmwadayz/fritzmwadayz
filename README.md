@@ -9,7 +9,7 @@ About Me
 - Interested in a lot, still figuring out exactly where
 - Open to collaborating on nothing specific yet, but always up for interesting projects
 - Reach me via email at mwadayz@yandex.com or,
-- Telegram: @fritzmwadayz
+- Telegram: [@fritzmwadayz](https://t.me/fritzmwadayz)
 
 
 <br>
