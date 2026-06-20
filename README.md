@@ -7,9 +7,9 @@ About Me
 - I code backends mainly in Python
 - Currently learning C and Assembly
 - Interested in a lot, still figuring out exactly where
-- Open to collaborating — nothing specific lined up yet, but always up for interesting projects
-📫 Reach me via email at mwadayz@yandex.com
-💬 Telegram: @fritzmwadayz
+- Open to collaborating on nothing specific yet, but always up for interesting projects
+- Reach me via email at mwadayz@yandex.com or,
+- Telegram: @fritzmwadayz
 
 
 <br>
